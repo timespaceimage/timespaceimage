@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @timespaceimage
+- 👋 Hi, I’m Toby Catz aka @timespaceimage
 - 👀 I’m interested in electronic music and art; also topics such as multimedia, copywriting, digital currency, and NFTs - and how we can apply them in practical ways towards cultural and individual expression as well as create meaningful connections.
 - 🌱 I’m currently learning GitHub.
 - 💞️ I’m looking to collaborate on Balloon Catz
