@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timespaceimage
 
-- 📫 email me at timespaceimage@protonmail.com
+- 📫 email me at timespaceimage@proton.me
 
 <!---
 timespaceimage/timespaceimage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
